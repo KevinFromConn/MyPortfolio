@@ -1,7 +1,7 @@
 :root {
-    --primary-color: #fce138;
-    --secondary-color: #024e76;
-    --tertiary-color: #39a6b2;
+    --primary-color: #bae0fa;
+    --secondary-color: #a84c17;
+    --tertiary-color: #7d39cc;
 }
 * {
     margin: 0;
@@ -20,7 +20,7 @@
     position: -webkit-sticky;
     position: sticky;
     top: 0;
-    background-image: url("../images/hero-bg.jpg");
+    background-image: url("../images/programming-1009134_1280.jpg");
     background-size: cover;
     background-position: 80%;
     background-attachment: fixed;
@@ -142,14 +142,14 @@
 }
 /* Hero Style Start */
 .hero {
-    background-image: url("../images/hero-bg.jpg");
+    background-image: url("../images/programming-1009134_1280.jpg");
     background-size: cover;
     background-attachment: fixed;
     background-position: 80%;
     display: flex;
-    justify-content: center;
+    justify-content: right;
     flex-wrap: wrap;
-    color: #39a6b2;
+    color: var(--tertiary-color);
     align-items: flex-start;
 }
 .hero-cta {
