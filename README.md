@@ -4,8 +4,8 @@ This portfolio, though a work-in-progress, shows off all of my accomplishments t
 
 # Screenshot of WebPage
 
-![Here is what the webpage looks like](file:///C:/Users/kevin/OneDrive/Pictures/Screenshots/Portfolio%20Screenshot.png "My Portfolio")
+![Portfolio Screenshot](https://user-images.githubusercontent.com/83373330/120695161-122da400-c479-11eb-88f9-f85d2e529a77.png)
 
 # Link to Launched Application
 
-![Here is the link to the live webpage](https://kevinfromconn.github.io/MyPortfolio/ "My Portfolio")
+[Here is the link to the live webpage](https://kevinfromconn.github.io/MyPortfolio/ "My Portfolio")
