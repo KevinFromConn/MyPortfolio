@@ -10,7 +10,7 @@
 .body {
     color: var(--tertiary-color);
     font-family:Georgia, 'Times New Roman', Times, serif;
-    background-color: beige;
+    background-color: slategrey;
 }
 .header {
     padding: 20px 35px;
