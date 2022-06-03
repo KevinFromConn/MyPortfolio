@@ -127,12 +127,24 @@
     display: grid;
 }
 .resume {
-    background-color: beige;
+    background-color: slategray;
+    display: grid;
+    align-items: center;
 }
 .resume-text {
     text-align: center;
     font-size: 28px;
     color: black;
+}
+.resume-img {
+    flex: 1 12%;
+    margin-right: 20px;
+}
+.resume-img:hover {
+    box-shadow: 10px 10px 5px grey;
+}
+.resume-img img {
+    max-width: 100%;
 }
 .section-title {
     font-size: 48px;
