@@ -62,15 +62,14 @@
     text-shadow: none;
 }
 .footer {
-    background: var(--primary-color);
-    width: 100%;
-    padding: 40px 35px;
+    background: slategray;
+    width: 100%;;
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
 }
 .footer h2 {
-    color: var(--secondary-color);
+    color: whitesmoke;
     font-size: 30px;
     margin: 0;
 }
@@ -103,7 +102,7 @@
     transform: translateX(115%);
 }
 .intro {
-    background-color: beige;
+    background-color: slategray;
 }
 .intro h2 {
     font-size: 55px;
@@ -117,7 +116,7 @@
 .intro p {
     text-align: center;
     line-height: 1.7;
-    color: var(--tertiary-color);
+    color: whitesmoke ;
     width: 80%;
     margin: 0 auto;
     font-size: 20px;
