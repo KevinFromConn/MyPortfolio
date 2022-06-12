@@ -127,8 +127,7 @@
 }
 .resume {
     background-color: slategray;
-    display: grid;
-    align-items: center;
+    
 }
 .resume-text {
     text-align: center;
@@ -138,9 +137,10 @@
 .resume-img {
     flex: 1 12%;
     margin-right: 20px;
+    flex-wrap: wrap;
 }
 .resume-img:hover {
-    box-shadow: 10px 10px 5px grey;
+    box-shadow: 10px 10px 5px rgb(60, 60, 60);
 }
 .resume-img img {
     max-width: 100%;
